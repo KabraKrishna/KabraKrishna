@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a passionate Software Engineer with 3+ years of industry experience building full-Stack Web apps. A UI/UX Enthusiast
+Full-Stack Software Developer | UI/UX Enthusiast
 
 
 ## 🌐 Socials:
